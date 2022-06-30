@@ -1,5 +1,4 @@
 # docker-periodic-rsync-storj
-=====
 Docker image: Periodic remote backup - rsync and send to Storj DCS
 
 ***docker-periodic-rsync-storj*** is a [*Docker*](http://www.docker.com/) image based on *Alpine Linux* with *cron*, *ssh*, *tar*, *wget*, *curl*, *unzip*, *bash* and [*rsync*](http://en.wikipedia.org/wiki/Rsync) periodic remote *rsync* copy jobs, packaging and send backup to [*Storj DCS*](https://www.storj.io/).
